@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mario Witte]]></title>
+        <description><![CDATA[Mario Witte]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 21:07:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined16616315-b48a-4e5b-8597-afe6532d2c2d/index.html</link>
+            <guid isPermaLink="false">16616315-b48a-4e5b-8597-afe6532d2c2d</guid>
+            <pubDate>Mon, 28 Dec 2015 21:07:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
