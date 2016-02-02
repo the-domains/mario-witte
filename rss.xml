@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Mario Witte]]></title>
         <description><![CDATA[Mario Witte]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mariowitte.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 21:07:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 16:15:24 GMT</lastBuildDate>
+        <atom:link href="http://mariowitte.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined16616315-b48a-4e5b-8597-afe6532d2c2d/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/667647f0-3287-4387-a091-342f00a5d0fd.jpg">]]></description>
+            <link>http://mariowitte.com/b2e01c33-764d-4cde-95e2-11724cc340ff/index.html</link>
+            <guid isPermaLink="false">b2e01c33-764d-4cde-95e2-11724cc340ff</guid>
+            <pubDate>Tue, 02 Feb 2016 16:15:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Give me a Ping Vasily, one Ping only.]]></title>
+            <description><![CDATA[<h1>Give me a Ping Vasily, one Ping only.</h1>]]></description>
+            <link>http://mariowitte.com/16616315-b48a-4e5b-8597-afe6532d2c2d/index.html</link>
             <guid isPermaLink="false">16616315-b48a-4e5b-8597-afe6532d2c2d</guid>
             <pubDate>Mon, 28 Dec 2015 21:07:27 GMT</pubDate>
         </item>
