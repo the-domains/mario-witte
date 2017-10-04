@@ -1,28 +1,34 @@
-name: Mario Witte
-favicon: null
-layout_spectrum: 0.75241
-typography_spectrum: 0.30156
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-57597-10
-  facebook: null
-  twitter: null
+layout_spectrum: 0.513624239228758
+typography_spectrum: 0.8965336331130365
+color:
+  brandColors:
+    - '#B8ECD7'
+    - '#083643'
+    - '#B1E001'
+    - '#CEF09D'
+    - '#476C5E'
+  brandStrength: 0.17954663972739168
+  lightness: 0.6139770152802477
+  saturation: 0.31408820785572844
+  rhythmicContrast: 0.7221722215149404
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#cefeff'
-    - '#000000'
-    - '#c69e4c'
-    - '#4e675b'
-    - '#79cedd'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 0.6719054849818349
-  rhythmicContrast: 0.6194200976751745
+analytics:
+  google: UA-57597-10
+  facebook: null
+  twitter: null
+name: Mario Witte
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Impressum
+    id: 427a5d6e-8518-42e5-b4e0-1d7c8503a631
+    type: content
+favicon: null
 purpose: []
+content: []
+github: true
